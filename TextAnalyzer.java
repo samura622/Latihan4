@@ -18,7 +18,7 @@ public class TextAnalyzer {
             System.out.print("Pilihan Anda: ");
 
             int choice = scanner.nextInt();
-            scanner.nextLine();  // Consume the newline character
+            scanner.nextLine();  
 
             switch (choice) {
                 case 1:
